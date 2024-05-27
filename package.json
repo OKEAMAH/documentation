@@ -46,7 +46,7 @@
     "@metamask/providers": "^10.2.1",
     "@nanostores/preact": "^0.5.1",
     "@nanostores/react": "^0.7.2",
-    "@openzeppelin/contracts": "^4.9.6",
+    "@openzeppelin/contracts": "^5.0.2",
     "astro": "^4.6.3",
     "bignumber.js": "^9.1.2",
     "clipboard": "^2.0.11",
