@@ -40,7 +40,7 @@
     "@chainlink/components": "^0.4.16",
     "@chainlink/contracts": "1.1.0",
     "@chainlink/contracts-ccip": "1.4.0",
-    "@chainlink/design-system": "^0.1.50",
+    "@chainlink/design-system": "^0.2.5",
     "@chainlink/solana-sdk": "^0.2.2",
     "@metamask/detect-provider": "^2.0.0",
     "@metamask/providers": "^10.2.1",
