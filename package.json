@@ -43,7 +43,7 @@
     "@chainlink/design-system": "^0.2.5",
     "@chainlink/solana-sdk": "^0.2.2",
     "@metamask/detect-provider": "^2.0.0",
-    "@metamask/providers": "^10.2.1",
+    "@metamask/providers": "^16.1.0",
     "@nanostores/preact": "^0.5.1",
     "@nanostores/react": "^0.7.2",
     "@openzeppelin/contracts": "^5.0.2",
